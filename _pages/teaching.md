@@ -19,82 +19,84 @@ nav_order: 6
 </ul>
 
 ## Deakin University, Australia
-<h4>Lecturer, 2025</h4>
+### Lecturer, 2025
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
-<h4>Lecturer, 2024</h4>
+
+### Lecturer, 2024<
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
-<h4>Lecturer, 2023</h4>
+
+### Lecturer, 2023
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT328">SIT328, Communicating Information Technology Innovations</a> (T1).</li> 
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT112">SIT112, Data Science Concepts</a> (T1).</li>
 </ul>
-<h4>Lecturer, 2022</h4>
+
+### Lecturer, 2022
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT102">SIT102, Introduction to Programming</a> (T2).</li> 
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT102">SIT102, Introduction to Programming</a> (T1).</li>
 </ul>
-<h4>Lecturer, 2021</h4>
+
+### Lecturer, 2021
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT744">SIT744, Deep Learning</a> (T1).</li>                    
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT740">SIT740, Research and Development in Information Technology</a> (T1).</li>
 </ul>
-<h4>Lecturer, 2020</h4>
+
+### Lecturer, 2020
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT744">SIT744, Deep Learning</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT740">SIT740, Research and Development in Information Technology</a> (T1).</li>
 </ul>
-            
+     
+---           
 ## The University of Toronto, Canada
-<h4>Lecturer, Winter 2019</h4>
+### Lecturer, Winter 2019
 <ul>
     <li>MIE1513, Decision Support Systems (DSS) (check out my <a href="papers/BouadjenekMohamed_MIE1513H_DECISION-SUPPORT-SYSTEMS-MIE1513H-S-LEC0101_Instructor_Winter_2019.pdf">Teaching feedback</a>). </li>
 </ul>
 
-            <!--div >
-                During my Ph.D. thesis, I accumulated arround 300 hours of teaching.
-            </div-->
-            <div >
-                <h3>University of Versailles (UVSQ) & ISTY, France</h3>
-                <h4>Part-Time Lecturer, 2012-2013</h4>
-                <ul>
-                    <li>Formal specifications and introduction to UML, B.Sc 3 (70H) </li>
-                </ul>
-            </div>
-            <div >
-                <h4>Part-Time Lecturer, 2011-2012</h4>
-                <ul>
-                    <li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (65H) </li>
-                    <li>Formal specifications, B.Sc 3 (30H) </li>
-                </ul>
-            </div>
-            <div >
-                <h4>Part-Time Lecturer, 2010-2011</h4>
-                <ul>
-                    <li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
-                </ul>
-            </div>
-            <div >
-                <h4>Part-Time Lecturer, 2009-2010</h4>
-                <ul>
-                    <li>Conception of databases, B.Sc (34H)</li>
-                    <li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
-                    <li>Engineering tools, B.Sc 3 (6H) </li>
-                </ul>
-            </div>            
-            <div >
-                <h2>Project Supervising</h2> During my Ph.D. thesis, I also supervised some projects.
-                <ul>
-                    <li>2013: A Folksonomy Indexing Engine. </li>
-                    <li>2012: Enhanced Documents' Representation With Social Annotations.</li>
-                </ul>
-            </div>
+<!--div >
+    During my Ph.D. thesis, I accumulated arround 300 hours of teaching.
+</div-->
+---
+## University of Versailles (UVSQ) & ISTY, France
+### Part-Time Lecturer, 2012-2013
+<ul>
+<li>Formal specifications and introduction to UML, B.Sc 3 (70H) </li>
+</ul>
+
+### Part-Time Lecturer, 2011-2012
+<ul>
+<li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (65H) </li>
+<li>Formal specifications, B.Sc 3 (30H) </li>
+</ul>
+
+### Part-Time Lecturer, 2010-2011
+<ul>
+<li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
+</ul>
+
+### Part-Time Lecturer, 2009-2010</
+<ul>
+<li>Conception of databases, B.Sc (34H)</li>
+<li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
+<li>Engineering tools, B.Sc 3 (6H) </li>
+</ul>
+
+### Project Supervising
+During my Ph.D. thesis, I also supervised some projects.
+<ul>
+<li>2013: A Folksonomy Indexing Engine. </li>
+<li>2012: Enhanced Documents' Representation With Social Annotations.</li>
+</ul>
