@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc., MSc., and Ph.D. in Computer Science<br> Fellow of the Higher Education Advanced <br> <span class="font-weight-bold">Senior Lecturer</span>, Applied Artificial Intelligence<br>School of Information Technology<br> <a href='https://www.deakin.edu.au/'>Deakin University</a>
+subtitle: BSc., MSc., and Ph.D. in Computer Science<br> <span class="font-weight-bold">Senior Lecturer</span>, Applied Artificial Intelligence, School of IT <a href='https://www.deakin.edu.au/'>Deakin University</a>
 
 profile:
   align: right
@@ -12,8 +12,8 @@ profile:
     <p>KA5.201.W26</p><br>
     <p>75 Pigdons Rd</p><br>
     <p>Waurn Ponds, VIC 3216</p><br>
-    <img src="assets/img/email_deakin.png" alt="deakin email" width="70%"><br>
-    <img src="assets/img/email-gmail.png" alt="deakin email" width="70%">
+    <img src="assets/img/email_deakin.png" alt="deakin email" ><br>
+    <img src="assets/img/email-gmail.png" alt="deakin email" >
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
