@@ -4,7 +4,7 @@ permalink: /
 title: grants and awards
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 9
 ---
 
             
