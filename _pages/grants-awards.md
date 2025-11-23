@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /
-title: teaching
-description: below is a list of the main courses I have taught.
+title: grants and awards
+description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
