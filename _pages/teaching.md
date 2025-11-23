@@ -63,7 +63,7 @@ nav_order: 6
 ## The University of Toronto, Canada
 ### Lecturer, Winter 2019
 <ul>
-    <li>MIE1513, Decision Support Systems (DSS) (check out my <a href="papers/BouadjenekMohamed_MIE1513H_DECISION-SUPPORT-SYSTEMS-MIE1513H-S-LEC0101_Instructor_Winter_2019.pdf">Teaching feedback</a>). </li>
+    <li>MIE1513, Decision Support Systems (DSS) (check out my <a href="assets/pdf/BouadjenekMohamed_MIE1513H_DECISION-SUPPORT-SYSTEMS-MIE1513H-S-LEC0101_Instructor_Winter_2019.pdf">Teaching feedback</a>). </li>
 </ul>
 
 <!--div >
