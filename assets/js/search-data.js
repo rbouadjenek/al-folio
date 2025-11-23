@@ -14,7 +14,7 @@ ninja.data = [{
           description: "This page provides an exhaustive overview of my publication record, including journal articles, conference papers, and other scholarly contributions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/al-folio/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -23,16 +23,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/projects/";
           },
-        },{id: "nav-grants-and-awards",
-          title: "grants and awards",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "below is a list of the main courses I have taught.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "below is a list of the main courses I have taught.",
+        },{id: "nav-grants-and-awards",
+          title: "grants and awards",
+          description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/";
