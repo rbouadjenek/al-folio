@@ -12,23 +12,23 @@ nav_order: 6
 <a href="assets/statements/RedaBouadjenek-Fellowship.pdf">Fellow of the UK AdvanceHE</a>, formerly known as Higher Education Academy (HEA) [2023]
 ## Seminars 
 <ul>
-<li>Lecture 4  (May 2023): Variational AutoEncoder. <a href="papers/vae_Reda@Deakin.pdf"> [pdf] </a> <a href="papers/vae_Reda@Deakin.pptx"> [pptx] </a></li>
-<li>Lecture 3 (Jun 2020): BERT: Bidirectional Encoder Representations from Transformers. <a href="papers/BERT_Reda@Deakin.pdf"> [pdf] </a> <a href="papers/BERT_Reda@Deakin.pptx"> [pptx] </a> <a href="https://www.youtube.com/watch?v=7p0z6QjcC_M">[video]</a>  </li>           
-<li>Lecture 2 (May 2020): LSTM is dead. Long Live Transformers! (Slides by: <a href="https://sea-adl.org/2019/12/03/lstm-is-dead-long-live-transformers/" target="_blank">Leo Dirac</a>). <a href="papers/transformers_Reda@Deakin.pdf"> [pdf] </a> <a href="papers/transformers_Reda@Deakin.pptx"> [pptx] </a> <a href="https://www.youtube.com/watch?v=aFPxIc8Z8XA">[video]</a> </li>
-<li>Lecture 1 (May 2020): Word embeddings LSA, Word2Vec, Glove, ELMo. <a href="papers/wordembed_v2.0.pdf"> [pdf] </a> <a href="papers/wordembed_v2.0.pptx"> [pptx] </a> <a href="https://deakin365-my.sharepoint.com/:v:/g/personal/asef_nazari_deakin_edu_au/EaWaHxJQ9LlPtndMAQOtDzABAgA2CCgCS4aiDo-RPHtjAw?e=9cwEd4"> [video] </a> </li>
+<li>Lecture 4  (May 2023): Variational AutoEncoder. <a href="assets/pdf/vae_Reda@Deakin.pdf"> [pdf] </a> <a href="assets/pdf/vae_Reda@Deakin.pptx"> [pptx] </a></li>
+<li>Lecture 3 (Jun 2020): BERT: Bidirectional Encoder Representations from Transformers. <a href="assets/pdf/BERT_Reda@Deakin.pdf"> [pdf] </a> <a href="assets/pdf/BERT_Reda@Deakin.pptx"> [pptx] </a> <a href="https://www.youtube.com/watch?v=7p0z6QjcC_M">[video]</a>  </li>           
+<li>Lecture 2 (May 2020): LSTM is dead. Long Live Transformers! (Slides by: <a href="https://sea-adl.org/2019/12/03/lstm-is-dead-long-live-transformers/" target="_blank">Leo Dirac</a>). <a href="assets/pdf/transformers_Reda@Deakin.pdf"> [pdf] </a> <a href="assets/pdf/transformers_Reda@Deakin.pptx"> [pptx] </a> <a href="https://www.youtube.com/watch?v=aFPxIc8Z8XA">[video]</a> </li>
+<li>Lecture 1 (May 2020): Word embeddings LSA, Word2Vec, Glove, ELMo. <a href="assets/pdf/wordembed_v2.0.pdf"> [pdf] </a> <a href="assets/pdf/wordembed_v2.0.pptx"> [pptx] </a> <a href="https://deakin365-my.sharepoint.com/:v:/g/personal/asef_nazari_deakin_edu_au/EaWaHxJQ9LlPtndMAQOtDzABAgA2CCgCS4aiDo-RPHtjAw?e=9cwEd4"> [video] </a> </li>
 </ul>
 
 ## Deakin University, Australia
 ### Lecturer, 2025
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
-<li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
+<li><a href="https://sit330-770.github.io/2025/">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
 
-### Lecturer, 2024<
+### Lecturer, 2024
 <ul>
 <li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT799">SIT799, Human Aligned Artificial Intelligence</a> (T2).</li>
-<li><a href="https://www.deakin.edu.au/courses/unit?unit=SIT770">SIT330/770, Natural Language Processing</a> (T1).</li>
+<li><a href="https://sit330-770.github.io/2024/">SIT330/770, Natural Language Processing</a> (T1).</li>
 </ul>
 
 ### Lecturer, 2023
@@ -87,7 +87,7 @@ nav_order: 6
 <li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
 </ul>
 
-### Part-Time Lecturer, 2009-2010</
+### Part-Time Lecturer, 2009-2010
 <ul>
 <li>Conception of databases, B.Sc (34H)</li>
 <li>Linux, Networking, Databases, CSS, HTML and PHP, M.Sc (45H) </li>
