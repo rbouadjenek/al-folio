@@ -11,7 +11,9 @@ profile:
   more_info: >
     <p>KA5.201.W26</p><br>
     <p>75 Pigdons Rd</p><br>
-    <p>Waurn Ponds, VIC 3216</p>
+    <p>Waurn Ponds, VIC 3216</p><br>
+    <img src="assets/img/email_deakin.png" alt="deakin email"><br>
+    <img src="assets/img/email-gmail.png" alt="deakin email">
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
