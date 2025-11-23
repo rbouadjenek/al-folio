@@ -33,5 +33,3 @@ I'm a Senior Lecturer (Assistant Professor) of Applied Artificial Intelligence i
 My research spans a broad range of topics related to the data-driven fields of Machine Learning, Deep Learning and Information Retrieval. I have applied analytic and algorithmic tools from these fields to solve real-world problems related to diverse applications such as recommender systems, interactive visual search interfaces, social network analysis, and data quality.
 
 
-## Disclaimer
-This is a personal website. The opinions expressed are mine and do not necessarily represent the views of my employer.
